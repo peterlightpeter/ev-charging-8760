@@ -1,0 +1,6 @@
+Year Hour,Date,Hour of Day,Day of Week,Use Case #1,Use Case #2
+1,2024-01-01,00:00,Monday,1,0
+2,2024-01-01,01:00,Monday,0,0
+3,2024-01-01,02:00,Monday,0,0
+4,2024-01-01,03:00,Monday,0,0
+5,2024-01-01,04:00,Monday,0,0
